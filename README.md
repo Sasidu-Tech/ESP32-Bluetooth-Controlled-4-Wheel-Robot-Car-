@@ -2,18 +2,7 @@
 
 🚗 Build • Connect • Control
 
-A DIY four-wheel robot car powered by an ESP32, controlled wirelessly through Bluetooth using a smartphone.
 
-<img src="robot-car-thumbnail.png" alt="ESP32 Bluetooth Controlled 4-Wheel Robot Car" width="650"><br>"ESP32" (https://img.shields.io/badge/Controller-ESP32-blue?style=for-the-badge&logo=espressif)
-"Bluetooth" (https://img.shields.io/badge/Control-Bluetooth-0082FC?style=for-the-badge&logo=bluetooth)
-"Arduino" (https://img.shields.io/badge/Platform-Arduino-00979D?style=for-the-badge&logo=arduino)
-"Robotics" (https://img.shields.io/badge/Project-Robotics-orange?style=for-the-badge)
-
-Designed and developed by "Sasidu Wishshanka" (https://github.com/Sasidu-Tech)
-
-"GitHub Profile" (https://github.com/Sasidu-Tech) • "LinkedIn" (https://www.linkedin.com/in/sasidu-wishshanka-434938428)
-
-</div>---
 
 📌 Project Overview
 
