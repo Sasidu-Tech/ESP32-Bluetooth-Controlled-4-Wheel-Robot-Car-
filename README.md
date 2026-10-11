@@ -2,6 +2,20 @@
 
 🚗 Build • Connect • Control
 
+ ## 🎥 Demo
+
+[![Watch Demo on YouTube](https://img.shields.io/badge/Watch%20Demo-YouTube-red?logo=youtube)](https://youtu.be/i9ffDgVEnng?si=19BD2R3Grv1-wWYI)
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Sasidu-Tech/ESP32-Bluetooth-Controlled-4-Wheel-Robot-Car-/blob/main/images/BT%20Car%20(1).png" width="400">
+    </td>
+    <td align="center">
+      <img src="https://github.com/Sasidu-Tech/ESP32-Bluetooth-Controlled-4-Wheel-Robot-Car-/blob/main/images/BT%20Car%20(8).png" alt="ESP32 Wi-Fi Scanner Demo" width="400">
+    </td>
+  </tr>
+</table>
 
 
 📌 Project Overview
